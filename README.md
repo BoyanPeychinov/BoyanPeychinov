@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BoyanPeychinov
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning python in SoftUni
+- 🌱 I'm python enthusiastic 
 - 📫 You can reach me at boyanpeychinov@gmail.com
 
 <!---
